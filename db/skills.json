@@ -1,0 +1,17 @@
+[
+{
+    "skillname": "html",  
+    "lvl": 60,     
+    "cssclass": "skill-html"  
+},
+{
+    "skillname": "css",  
+    "lvl": 40,     
+    "cssclass": "skill-css"  
+},
+{
+    "skillname": "c#",  
+    "lvl": 45,     
+    "cssclass": "skill-csh"  
+}
+]
